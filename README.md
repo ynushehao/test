@@ -10,7 +10,7 @@
 #### 安装教程
 
 1.  first
-2.  xxxx
+2.  second
 3.  xxxx
 
 #### 使用说明
